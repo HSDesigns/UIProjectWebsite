@@ -32,10 +32,7 @@
 		   from: 0,
 		   to: toCount,
 		   speed: 5000,
-		   refreshInterval: 50,
-		    onComplete: function (value) {
-			console.log("manish wont do it");
-    }
+		   refreshInterval: 50
 		   })
 		   });
 			 /* Smooth Scroll */

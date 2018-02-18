@@ -13,6 +13,10 @@ body {
 	height: 100%;
 	font-family: 'Poppins', sans-serif;
 }
+canvas{
+	top: 0;
+	position: absolute;
+}
 
 html,
 body {
@@ -165,7 +169,7 @@ display: block;
 				color: #ff9800;
 				}
 				.nv-rating{
-					color: rgba(0, 150, 136, 0.98);
+					color: #fff;
 			    font-weight: 600;
 			    font-size: 0.9em;
 				}
@@ -517,25 +521,25 @@ top:7em;
 /*Banner section Styles*/
 #nv-banner.padding-top {
 padding-top: 63px;
-background: #F2F3EE no-repeat 99% bottom;
+background: #343a40 no-repeat 99% bottom;
 background-size: auto 100%;
 border: none;
 }
 .nv-heading{
 font-size: 34px;
 line-height: 45px;
-color: #325c80;
+color: #fff;
 }
 .nv-subheading{
 font-size: 22px;
 line-height: 30px;
-color: #325c80;
+color: #fff;
 }
 .nv-bullet-points{
 font-size: 16px;
 font-weight: 400;
 line-height: 28px;
-color: #325c80;
+color: #fff;
 padding-left: 5px;
 }
 .live-preview .btn-common{
