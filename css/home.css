@@ -521,9 +521,10 @@ top:7em;
 /*Banner section Styles*/
 #nv-banner.padding-top {
 padding-top: 63px;
-background: #343a40 no-repeat 99% bottom;
+background: #563d7c no-repeat 99% bottom;
 background-size: auto 100%;
 border: none;
+height: 100vh;
 }
 .nv-heading{
 font-size: 34px;
